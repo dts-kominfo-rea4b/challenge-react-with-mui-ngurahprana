@@ -14,9 +14,9 @@ const App = () => {
 
   return (
     <div className="App">
+      <Header />
       <Contact />
       <ContactForm />
-      <Header />
     </div>
   );
 };
